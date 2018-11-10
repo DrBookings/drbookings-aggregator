@@ -1,2 +1,1 @@
-# drbookings-aggregator
-Dr.Bookings Aggregator POM
+# Dr.Bookings Aggregator POM
